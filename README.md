@@ -9,7 +9,7 @@ Team members: Ponaroth Eab, Julie Kasparian, Margarita Nuridjanian, Daniel Preci
 
 Source: https://www.kaggle.com/huseinzol05/twitter-emotion-cryptocurrency
 
-(Download jsons from link)
+(Download jsons from link/ files to big to include in raw_data folder)
 
 Description: From the comments mined from Twitter related to cryptocurrency, create prediction models that can predict the emotional label of each comment. 
 
